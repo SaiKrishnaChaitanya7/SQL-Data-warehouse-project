@@ -101,6 +101,8 @@ Hi there! I'm **Bontha Sai Krishna Chaitanya**, also known as **Data Analyst**. 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn]  **https://www.linkedin.com/in/bontha-s-563639131**
-[![Website]  **https://codebasics.io/portfolio/Sai-Krishna-Chaitanya-B#project**
-[![Certifications]  **https://drive.google.com/drive/folders/1MM1ymcpPH6S7Di6V28-SxueRnaNL7TqC**
+[![LinkedIn]]  **https://www.linkedin.com/in/bontha-s-563639131**
+
+[![Website]]  **https://codebasics.io/portfolio/Sai-Krishna-Chaitanya-B#project**
+
+[![Certifications]]  **https://drive.google.com/drive/folders/1MM1ymcpPH6S7Di6V28-SxueRnaNL7TqC**
